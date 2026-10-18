@@ -22,3 +22,9 @@ Building AI & ML projects for health, finance, and research. Halo, saya dari Ind
 ## 📫 Let's connect
 
 Open to collaboration on AI/ML projects. Feel free to open an issue or follow me here on GitHub.
+
+**Website**: [basyid.dev](https://basyid.dev)
+
+**Startup**: [Kawalight Studio](https://kawalightstudio.id)
+
+**Kaggle**: [abukayyisahbasyid](https://www.kaggle.com/abukayyisahbasyid)
