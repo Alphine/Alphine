@@ -15,8 +15,6 @@ Building AI & ML projects for health, finance, and research. Halo, saya dari Ind
 
 🔹 **[telomore](https://github.com/Alphine/telomore)**: Telomere Evolution Lab + Foci Lab, AI search over a telomere-dynamics model and browser-only analysis of real DNA-damage microscopy (Python)
 
-🔹 **[Dicomandroid](https://github.com/Alphine/Dicomandroid)**: script to open DICOM files on Android
-
 🔹 **[pytorch-test](https://github.com/Alphine/pytorch-test)** / **[libtorch-test](https://github.com/Alphine/libtorch-test)**: PyTorch and LibTorch (C++) experiments
 
 ## 📫 Let's connect
